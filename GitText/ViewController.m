@@ -21,6 +21,7 @@
     NSLog(@"垃圾小时代，郭敬明大水笔");
     NSLog(@"小时代票房垫底");
     NSLog(@"caonimabi");
+    NSLog(@"caonima了");
 }
 
 - (void)didReceiveMemoryWarning {
