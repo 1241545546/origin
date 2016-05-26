@@ -28,6 +28,8 @@
     NSLog(@"caonimabi");
     NSLog(@"caonima了");
     NSLog(@"caonima了");
+    NSLog(@"caonima了545465456");
+    NSLog(@"caonima454554了");
 }
 
 - (void)didReceiveMemoryWarning {
