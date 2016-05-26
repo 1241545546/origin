@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"垃圾小时代，郭敬明大水笔");
 }
 
 - (void)didReceiveMemoryWarning {
