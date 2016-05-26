@@ -30,6 +30,17 @@
     NSLog(@"caonima了");
     NSLog(@"caonima了545465456");
     NSLog(@"caonima454554了");
+    NSLog(@"小时代票房垫底");
+    NSLog(@"caonimabi");
+    NSLog(@"caonima了");
+    NSLog(@"caonima了");NSLog(@"小时代票房垫底");
+    NSLog(@"caonimabi");
+    NSLog(@"caonima了");
+    NSLog(@"caonima了");NSLog(@"小时代票房垫底");
+    NSLog(@"caonimabi");
+    NSLog(@"caonima了");
+    NSLog(@"caonima了");
+    
 }
 
 - (void)didReceiveMemoryWarning {
