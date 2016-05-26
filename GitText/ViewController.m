@@ -22,6 +22,7 @@
     NSLog(@"小时代票房垫底");
     NSLog(@"caonimabi");
     NSLog(@"caonima了");
+    NSLog(@"caonima了");
 }
 
 - (void)didReceiveMemoryWarning {
